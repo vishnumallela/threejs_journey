@@ -1,0 +1,17 @@
+{
+  "name": "basic-animation",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "gsap": "^3.14.2",
+    "three": "^0.182.0",
+    "vite": "^7.3.0"
+  }
+}
